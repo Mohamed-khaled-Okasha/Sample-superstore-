@@ -6,7 +6,7 @@ This project is a **Power BI Dashboard** built to analyze the *Sample Superstore
 This project was developed as part of my training with **Unique Intern**.  
 
 ## 📂 Dataset Information  
-- **Source:** Sample Superstore dataset  
+- **Source:** Sample Superstore dataset from uneeq intern
 - **Contains:** Sales, profit, category, sub-category, region, and customer data  
 - **Format:** CSV  
 
@@ -19,7 +19,7 @@ This project was developed as part of my training with **Unique Intern**.
 ## 🛠️ Tools & Technologies  
 - **Power BI** (for dashboard development)  
 - **Data Cleaning & Transformation:** Power Query  
-- **Data Visualization:** Bar charts, line charts, maps, and tables  
+- **Data Visualization:** Bar charts, line charts, maps, tree map, map and Bubble chart 
 
 
 
